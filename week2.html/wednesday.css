@@ -1,0 +1,11 @@
+.awesomeHeading {
+  color: blue;
+  background-color: rgb(255, 132, 0);
+  text-align: center;
+  margin: 0 10%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 10px;
+  display: block;
+  /* border-radius makes rounded edges */
+  border-radius: 20px;
+}
