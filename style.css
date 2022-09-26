@@ -5,3 +5,16 @@ h1 {
 img {
   height: 800px;
 }
+
+.red {
+  color: red;
+  font-size: xx-large;
+}
+
+.pink {
+  color: pink;
+}
+
+#yellow {
+  color: yellow;
+}
