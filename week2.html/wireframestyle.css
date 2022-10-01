@@ -1,0 +1,14 @@
+.center{
+    background-color: blanchedalmond;
+}
+
+.change:hover{
+    background-color: brown;
+    color: white;
+    font-size: 300%;
+}
+
+footer{
+    display:grid;
+    grid-template-columns:
+}
