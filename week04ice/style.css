@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    color: white;
+    background-color: pink;
+}
+
+h1 {
+    font-style: callibri;
+    text-align: center;
+    margin: 0 10%;
+}
+
+h1:hover {
+    color: black
+}
+
+.numberedlist {
+    color: black;
+    text-align: left;
+    margin: 0 30%;
+    line-height: 2;
+}
+img {
+    max-width: 150px;
+    margin: 10px 0;
+}
+
+#quote {
+    font-size: 35px;
+    margin: 0 35%;
+}
