@@ -9,8 +9,8 @@ nav a{
     text-decoration: none;
 }
 nav a:hover{
-    background-color:#3088CB;
-    color: #aae63c;
+    background-color:white;
+    color: black;
 }
 
 #hero-msg h1, #hero-msg h4 {
