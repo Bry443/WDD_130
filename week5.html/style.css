@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+#top {
+    border: 10 20;
+    padding: 123 0;
+    margin: 0 auto;
+    background-color: red;
+}
+
+#middle {
+    margin: 0 auto;
+    background-color: blue;
+}
+
+#bottom {
+    margin: 0 auto;
+    background-color: green;
+}
