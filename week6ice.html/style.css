@@ -1,0 +1,38 @@
+#maingrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#leftblock {
+    padding: 300px 10px;
+    background-color: white;
+}
+
+#rightblock {
+    padding: 300px 10px;
+    background-color: lightgrey;
+}
+
+h1 {
+    margin: 0 auto;
+    font-size: 10em;
+    padding-top: 150px;
+    padding-left: 10%;
+    z-index: 1;
+    position: absolute;
+}
+
+h3 {
+    color: darkred;
+    margin: 0 auto;
+    font-size: 5em;
+    padding-left: 58%;
+    padding-top: 400px;
+    position: absolute;
+}
+
+img {
+    position: absolute;
+    width: 50%;
+    height: 75%
+}
