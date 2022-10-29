@@ -154,6 +154,7 @@ grid-column: 2/4;
 
 .msg {
     background-color: #3088CB;
+    line-height: 1.5em;
     padding: 35px;
     grid-column: 6/10;
     grid-row: 6/7;
@@ -171,6 +172,8 @@ grid-column: 2/4;
 
 footer {
     background-color: black;
+    color: #3088CB;
+    font-size: 1.2em;
     padding: 25px 50px;
     margin-top: 200px;
     display: flex;
