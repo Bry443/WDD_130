@@ -200,6 +200,63 @@ footer .social img {
 #hero-img {
     width: 100%;
 }
+h2 {
+    color: #aae63c;
+}
+
+h2, dt {
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+
+p, dd {
+    font-family: Calibri, Candara, Segoe;
+}
+
+#pg2img{
+    width: 100%;
+    display: block;
+    padding-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#imgsection h2{
+    position: absolute;
+    top: 375px;
+    left: 45%;
+}
+
+.faqsection h2, #faqintro, .faqbox dt, .contactsection{
+    text-align: center;
+}
+
+.faqsection{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.faqsection h2{
+    font-size: 100px;
+}
+
+.faqbox{
+    color: #5362C2;;
+    margin: 10px 50px;
+    padding: 20px 20px;
+    border: solid;
+    border-radius: 10px;
+    border-top: solid;
+    border-left: solid;
+    border-right: solid;
+    border-color: black;
+    background-color: white;
+}
+
+dt{
+    color: black;
+}
+dd{
+    text-indent: 2em;
+}
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
