@@ -1,3 +1,14 @@
+#content {
+    font-family: Calibri, Candara, Segoe;
+    color: #514025;
+    
+}
+
+#content h1{
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+    color: #FFD500;
+}
+
 body {
     margin-top: 0;
     margin: 0 auto;
@@ -71,10 +82,14 @@ nav a:hover {
     background-color: white;
 }
 
-#desc-box{
+.desc-box{
     background-color: white;
     margin: 50px 50px;
     padding: 10px 20px;
+}
+
+.desc-box h1{
+    text-align: center;
 }
 
 .subsection{
